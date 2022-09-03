@@ -71,8 +71,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 
-<a href="https://discord.gg/qsJExtwMHq/" target="_blank">
-<img src=https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />  
+![](https://dcbadge.vercel.app/api/shield/712328850331140176)
 </div>  
   
 
