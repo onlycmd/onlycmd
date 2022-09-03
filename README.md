@@ -74,26 +74,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=unknownCMD&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownCMD&hide_border=true&layout=compact" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=unknownCMD&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<br/>  
+</td><td valign="top" width="50%">
 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownCMD&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<br/>  
-
-<details><summary> Spotify Listening </summary><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=roqfhf5jtnoyzvyzcj8nlmzbe&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div></details>  
+</td></tr></table>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=unknownCMD&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
