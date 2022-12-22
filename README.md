@@ -63,6 +63,7 @@
  
 <br/>  
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=323599334287343616)
 
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=unknownCMD&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
