@@ -8,8 +8,6 @@
 
 <br/>  
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<323599334287343616>)
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
