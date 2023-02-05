@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nazmi, I've been dealing with software for about 4 years. 👨‍💻 🚀</div>  
+### <div align="center">I'm CMD, I've been dealing with software for about 4 years. 👨‍💻 🚀</div>  
   
 
 <br/>  
