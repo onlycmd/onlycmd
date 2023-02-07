@@ -65,10 +65,9 @@
 
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=onlycmd&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=onlycmd&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlycmd&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlycmd&show_icons=true&locale=en&layout=compact" alt="onlycmd" /></p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=onlycmd&&style=flat-square" align="center" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlycmd&show_icons=true&theme=cobalt&locale=en" alt="onlycmd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlycmd&theme=dark" alt="onlycmd" /></p>
 </div>
