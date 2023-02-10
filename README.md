@@ -71,3 +71,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlycmd&theme=dark" alt="onlycmd" /></p>
 </div>
+
+## Discord
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/323599334287343616" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/323599334287343616?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
