@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" align="center" style="width: 50%" />
 </div>  
-  
-  <center> ![Profile View Counter](https://komarev.com/ghpvc/?username=onlycmd&color=blueviolet&style=plastic) </center>
-## Name
+ 
 ### <div align="center">I'm CMD, I've been dealing with software for about 4 years. 👨‍💻 🚀</div>  
   
 
