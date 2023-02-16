@@ -72,5 +72,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlycmd&theme=dark" alt="onlycmd" /></p>
 </div>
 
-## Discord
-Preparing...
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
