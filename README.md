@@ -2,7 +2,8 @@
 
 <h2>Ben Kimim</h2>
 
-```class cimidi {
+```javascript
+class cimidi {
     constructor(options) {
         this.name = "Nazmi",
         this.sex = "man",
