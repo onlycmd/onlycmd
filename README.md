@@ -2,7 +2,7 @@
 
 <h2>Ben Kimim</h2>
 
-class Papaz {
+class cimidi {
     constructor(options) {
         this.name = "Nazmi",
         this.sex = "man",
