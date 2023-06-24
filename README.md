@@ -14,4 +14,4 @@ class cimidi {
     };
 }
 
-module.exports = cimidi```
+module.exports = cimidi
