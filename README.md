@@ -7,10 +7,9 @@
         this.name = "Nazmi",
         this.sex = "man",
         this.type = "human",
-        this.job = "developer",
+        this.job = "F.S Dev",
         this.age = "19",
         this.discord.tag = "cimidi"
-        this.skills = "Discord.js, TypeScript, Shell"
     };
 }
 
