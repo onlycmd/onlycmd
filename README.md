@@ -11,7 +11,7 @@ class cimidi {
         this.sex = "man",
         this.type = "human",
         this.job = "F.S Dev",
-        this.age = "19",
+        this.age = "20",
         this.discord.tag = "cimidi"
     };
 }
