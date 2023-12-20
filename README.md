@@ -26,10 +26,3 @@ module.exports = cimidi
 ![onlycmd's Stats](https://github-readme-stats.vercel.app/api?username=onlycmd&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ![onlycmd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=onlycmd&theme=blue-green&hide_border=true)
 ![onlycmd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onlycmd&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
-
-## Projelerim
-
-[![DSCV14](https://github-readme-stats.vercel.app/api/pin?username=onlycmd&repo=discord-bot-v14-bos-altyapi)](https://github.com/onlycmd/discord-bot-v14-bos-altyapi)
-[![Klonlama](https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=discord-klonlama-araci)](https://github.com/onlycmd/discord-klonlama-araci)
-[![Script](https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=ddos-script)](https://github.com/onlycmd/ddos-script)
-[![Scriptprotect](https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=fivem-ddos-protection)](https://github.com/onlycmd/fivem-ddos-protection)
