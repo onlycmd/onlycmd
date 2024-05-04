@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=onlycmd&style=for-the-badge)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323599334287343616?hideDiscrim=true)](https://discord.com/users/323599334287343616)
-
 <h2>Ben Kimim</h2>
 
 ```javascript
