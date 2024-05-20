@@ -2,19 +2,43 @@
 
 <h2>Ben Kimim</h2>
 
-```javascript
-class cimidi {
-    constructor(options) {
-        this.name = "Nazmi",
-        this.sex = "man",
-        this.type = "human",
-        this.job = "F.S Dev",
-        this.age = "20",
-        this.discord.tag = "cimidi"
-    };
+```cpp
+#include <iostream>
+#include <string>
+
+class Cimidi {
+public:
+    std::string name;
+    std::string sex;
+    std::string type;
+    std::string job;
+    std::string age;
+    std::string discord_tag;
+
+    Cimidi() {
+        name = "Nazmi";
+        sex = "man";
+        type = "human";
+        job = "F.S Dev";
+        age = "20";
+        discord_tag = "cimidi";
+    }
+};
+
+int main() {
+    Cimidi cimidiObject;
+
+    // Accessing properties of the object
+    std::cout << "Name: " << cimidiObject.name << std::endl;
+    std::cout << "Sex: " << cimidiObject.sex << std::endl;
+    std::cout << "Type: " << cimidiObject.type << std::endl;
+    std::cout << "Job: " << cimidiObject.job << std::endl;
+    std::cout << "Age: " << cimidiObject.age << std::endl;
+    std::cout << "Discord Tag: " << cimidiObject.discord_tag << std::endl;
+
+    return 0;
 }
 
-module.exports = cimidi
 ```
 
 <h3 align="left">Languages and Tools:</h3>
