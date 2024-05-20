@@ -28,7 +28,6 @@ public:
 int main() {
     Cimidi cimidiObject;
 
-    // Accessing properties of the object
     std::cout << "Name: " << cimidiObject.name << std::endl;
     std::cout << "Sex: " << cimidiObject.sex << std::endl;
     std::cout << "Type: " << cimidiObject.type << std::endl;
