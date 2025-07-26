@@ -14,7 +14,7 @@
 #include <string>
 
 struct Cimidi {
-    std::string name = "Nazmi", sex = "man", type = "human", job = "F.S Dev", age = "21", discord_tag = "cimidi";
+    std::string name = "Nazmi", sex = "man", type = "human", job = "F.S Dev", age = "22", discord_tag = "cimidi";
 };
 
 int main() {
