@@ -1,12 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=onlycmd&style=for-the-badge)
 
-<h2 align="center">
- <a href="https://discord.com/users/824423596046680104"><img  width="400px" src="https://lanyard.kyrie25.me/api/824423596046680104?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
-<br> </br>
- </h2>
-<p align="center">
-  <br> </br>
-
 <h2>Ben Kimim</h2>
 
 ```cpp
@@ -31,6 +24,7 @@ int main() {
 ###
 
 <div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlycmd&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=onlycmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlycmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
