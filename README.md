@@ -2,20 +2,21 @@
 
 <h2>Ben Kimim</h2>
 
-```cpp
-#include <iostream>
-#include <string>
+```bash
 
-struct Cimidi {
-    std::string name = "Nazmi", sex = "man", type = "human", job = "F.S Dev", age = "22", discord_tag = "cimidi";
-};
+name="Nazmi"
+sex="man"
+type="human"
+job="F.S Dev"
+age="22"
+discord_tag="cimidi"
 
-int main() {
-    Cimidi c;
-    std::cout << "Name: " << c.name << "\nSex: " << c.sex << "\nType: " << c.type 
-              << "\nJob: " << c.job << "\nAge: " << c.age << "\nDiscord Tag: " << c.discord_tag << std::endl;
-    return 0;
-}
+echo "Name: $name"
+echo "Sex: $sex"
+echo "Type: $type"
+echo "Job: $job"
+echo "Age: $age"
+echo "Discord Tag: $discord_tag"
 
 ```
 
