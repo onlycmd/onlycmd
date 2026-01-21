@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="full_stack_banner.png" width="100%" alt="banner" />
   
   <h1>👋 Merhaba, Ben Nazmi!</h1>
   <p><i>Full Stack Developer | Problem Solver | Tech Enthusiast</i></p>
@@ -8,8 +7,6 @@
 
   <br />
   <br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=onlycmd&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="github trophies" />
 </div>
 
 <br />
