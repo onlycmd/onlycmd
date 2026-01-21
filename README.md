@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Merhaba, Ben Nazmi!</h1>
+  <h1>👋 Hi, I'm Nazmi!</h1>
   <p><i>Full Stack Developer | Problem Solver | Tech Enthusiast</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=onlycmd&style=for-the-badge&color=blue" alt="visitors" />
@@ -11,7 +11,23 @@
 
 <br />
 
-## 🌟 Öne Çıkan Projelerim
+## 👤 About Me
+
+```bash
+# Nazmi's Profile Information
+name="Nazmi"
+role="Full Stack Developer"
+age=22
+location="Cyprus"
+discord="cimidi"
+status="Building amazing things..."
+
+echo "Coding the future, one commit at a time."
+```
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/onlycmd/OnlyGuardian">
@@ -28,23 +44,9 @@
 
 <br />
 
-## 👤 Hakkımda
-
-```bash
-# Nazmi'nin Profil Bilgileri
-name="Nazmi"
-role="Full Stack Developer"
-age=22
-location="Cyprus"
-discord="cimidi"
-status="Building amazing things..."
-
-echo "Geleceği kodluyorum, her seferinde bir commit."
-```
-
 ---
 
-## 🛠️ Teknoloji Yığınım (Full Stack)
+## 🛠️ My Tech Stack (Full Stack)
 
 ### 🎨 Frontend
 <p align="left">
@@ -56,7 +58,7 @@ echo "Geleceği kodluyorum, her seferinde bir commit."
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Diller
+### ⚙️ Backend & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -66,7 +68,7 @@ echo "Geleceği kodluyorum, her seferinde bir commit."
   <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Araçlar
+### ☁️ DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
@@ -75,21 +77,21 @@ echo "Geleceği kodluyorum, her seferinde bir commit."
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlycmd&radius=16&theme=high-contrast&area=true" width="100%" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=onlycmd&show_icons=true&theme=codeSTACKr&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlycmd&layout=compact&theme=codeSTACKr&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlycmd&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" height="180" />
 </div>
 
 ---
 
-## 💬 İletişim
+## 💬 Contact
 
 <div align="center">
-  <p>Ücretli Bot işlemleri ve projeler için bana ulaşabilirsiniz:</p>
+  <p>Feel free to reach out to me for paid bot services and custom projects:</p>
   <a href="https://discord.gg/devcode" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
