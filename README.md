@@ -34,8 +34,8 @@ echo "Coding the future, one commit at a time."
   <a href="https://github.com/onlycmd/discord-bot-v14-bos-altyapi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=discord-bot-v14-bos-altyapi&theme=codeSTACKr" alt="discord-bot-v14-bos-altyapi" />
   </a>
-    <a href="https://github.com/onlycmd/onlyftp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=onlyftp&theme=codeSTACKr" alt="onlyftp" />
+    <a href="https://github.com/onlycmd/discord-klonlama-araci">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=discord-klonlama-araci&theme=codeSTACKr" alt="onlyftp" />
     </a>
       <a href="https://github.com/onlycmd/OnlyGuardian">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=OnlyGuardian&theme=codeSTACKr" alt="OnlyGuardian" />
@@ -88,11 +88,18 @@ echo "Coding the future, one commit at a time."
 
 ---
 
-## 💬 Contact
+## 💬 Contact & Support
 
 <div align="center">
   <p>Feel free to reach out to me for paid bot services and custom projects:</p>
   <a href="https://discord.gg/devcode" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+  <br/><br/>
+  
+  <p>If you like my work, you can support me by buying a coffee:</p>
+  <a href="https://www.buymeacoffee.com/nazmi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
   </a>
 </div>
