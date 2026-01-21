@@ -99,7 +99,7 @@ echo "Coding the future, one commit at a time."
   <br/><br/>
   
   <p>If you like my work, you can support me by buying a coffee:</p>
-  <a href="https://www.buymeacoffee.com/nazmi" target="_blank">
+  <a href="https://buymeacoffee.com/nazmisertdk" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
   </a>
 </div>
