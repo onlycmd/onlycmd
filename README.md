@@ -24,26 +24,6 @@ status="Building amazing things..."
 
 echo "Coding the future, one commit at a time."
 ```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <br />
-  <a href="https://github.com/onlycmd/discord-bot-v14-bos-altyapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=discord-bot-v14-bos-altyapi&theme=codeSTACKr" alt="discord-bot-v14-bos-altyapi" />
-  </a>
-      <a href="https://github.com/onlycmd/discord-klonlama-araci">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=discord-klonlama-araci&theme=codeSTACKr" alt="onlyftp" />
-    </a>
-      <a href="https://github.com/onlycmd/OnlyGuardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onlycmd&repo=OnlyGuardian&theme=codeSTACKr" alt="OnlyGuardian" />
-  </a>
-</div>
-
-<br />
-
 ---
 
 ## 🛠️ My Tech Stack (Full Stack)
